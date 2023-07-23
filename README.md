@@ -19,7 +19,7 @@ The project is composed of a single console application that interacts with the 
 3. Add your OpenAI API key to the project using .NET's Secret Manager:
 ```bash
 dotnet user-secrets set "OpenAI:ApiKey" "<Your OpenAI API Key>"
- ``
+ ```
 
 4. Run the project:
 ```bash
